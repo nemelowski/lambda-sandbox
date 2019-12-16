@@ -1,0 +1,11 @@
+/.gradle/
+/bin/
+/build/
+/mainResources/appinfo.properties
+.project
+.classpath
+.settings/
+.idea
+*.iml
+out
+features-converted
